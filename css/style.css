@@ -1,0 +1,308 @@
+
+.container { background: #f5f1f2; }
+
+body {font-family: 'Open Sans', sans-serif; font-size: 11pt;}
+
+a { 
+  transition: all ease 0.25s; 
+  -webkit-transition: all ease 0.25s;
+  -moz-transition: all ease .25s;
+        -ms-transition: all ease .25s;
+         -o-transition: all ease .25s;
+
+ }
+ 
+ a:visited {
+	 text-decoration: none;
+	 color: inherit;
+ }
+ 
+ a:hover {
+	 text-decoration:none;
+	 color: inherit;
+ }
+
+header {
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+	/*height: 74px;*/
+}
+
+header #logo {
+	display: inline-block;
+	margin-top: -15px;
+}
+
+#logo.shrink img {
+	height: 50px;
+	margin-top: 7px;
+	transition: all ease 1s; 
+  -webkit-transition: all ease 1s;
+  -moz-transition: all ease 1s;
+        -ms-transition: all ease 1s;
+         -o-transition: all ease 1s;
+}
+
+header nav {
+	display:inline-flex;
+}
+
+nav {
+	top: 0px;
+	/*min-height: 74px;*/
+	width: 95%;
+	vertical-align: middle;
+	padding:0;
+	padding-top: 5px;
+	margin: 0 auto;
+	display: inline-flex;
+}
+
+header nav a {
+	font-family: 'Ubuntu', san-serif;
+	font-size: 14pt;
+	margin:0 auto;
+	text-align: center;
+	margin: 0 30px;
+	color:#037F7C;
+	font-size: 18px;
+}
+
+header nav a:visited {
+	text-decoration: none;
+	color:#037F7C;
+}
+
+header nav a:hover {
+	color: #555656;
+	text-decoration: none;
+}
+
+/*NAVBAR*/
+
+/*.navbar-fixed-top {
+	background-color: #d3d3d3;
+	width: 100%;
+}*/
+
+.navbar {
+  background-color: #d3d3d3;
+  width: 100%;
+  padding-bottom: 1.2%;
+  margin-bottom: 15px !important;
+  min-height: 80px !important;
+}
+
+nav .navbar-toggle {
+  margin: 13px 15px 13px 0;
+}
+
+nav.navbar.shrink {
+  min-height: 60px !important;
+  padding-bottom: 0px;
+}
+
+nav.shrink a {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  font-size: 15px;
+}
+
+nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 8px 15px 8px 0;
+}
+
+/*END NAVBAR*/
+
+#banner1 {
+	height: 700px;
+	width: 100%;
+	background: #263238;
+}
+
+.content {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+
+.headtitle {
+	font-family: Ubuntu, 'Open Sans', arial, sans-serif;
+	font-weight: 100;
+	font-size: 20pt;
+	margin-left: 1.5%;
+}
+
+.contentstuff {
+	padding: 2%;
+}
+
+.webtn {
+	display: inline-flex;
+	width: 100%;
+}
+
+.learn {
+	width: 40%;
+	height: 20%;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid #555656;
+	border-radius: 2px;
+	margin: 2%;
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.learn:hover {
+	color: #ffffff;
+	background: #818385;
+	border: 1px solid #818385;
+}
+
+.signup {
+	width: 40%;
+	height: 20%;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid #037F7C;
+	border-radius: 2px;
+	margin: 2%;
+	background-color: #037F7C;
+	color: #ffffff;
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.signup:hover {
+	color: #ffffff;
+	background: #818385;
+	border: 1px solid #818385;
+}
+
+.featured_imgs {
+	border: 1px dashed red;
+}
+	
+.too_long {
+	display: inline-flex;
+}
+
+.pics {
+	width: 100%;
+}
+
+#features1 {
+	width: 100%;
+	height: auto;
+}
+
+#features2 {
+	width: 100%;
+	height: auto;
+}
+
+#features3 {
+	width: 100%;
+	height: auto;
+}
+
+.dl {
+	width: 60%;
+	height: 20%;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid #555656;
+	border-radius: 2px;
+	margin: 2%;
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.dl:hover {
+	color: #ffffff;
+	background: #818385;
+	border: 1px solid #818385;
+}
+
+
+#features4 {
+	width: 100%;
+	height: auto;
+}
+
+#demo {
+	width: 100%;
+	height: auto;
+}
+
+.demobtn {
+	width: 40%;
+	height: 20%;
+	padding: 15px;
+	text-align: center;
+	border: 1px solid #037F7C;
+	border-radius: 2px;
+	margin: 2%;
+	background-color: #037F7C;
+	color: #ffffff;
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.demobtn:hover {
+	color: #ffffff;
+	background: #818385;
+	border: 1px solid #818385;
+}
+
+footer {
+	display: inline-flex;
+	background-color: #d3d3d3;
+	width: 100%;
+	height: auto;
+	margin-top: 15px;
+	padding: 15px;
+	padding-bottom: 35px;
+}
+
+.links {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.links a {
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 2%;
+}
+
+#add {
+	font-size: 12px;
+	text-align: right;
+	padding-right: 10%;
+}
+
+.col-md-12 {
+	/*border: 1px dashed red;*/
+	margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

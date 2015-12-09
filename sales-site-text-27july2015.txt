@@ -1,0 +1,58 @@
+Header on top (ALWAYS shows, even on the first load)
+	HOME FEATURES DEMO SIGN UP LOGIN
+
+Slide 1
+=======
+
+HEADLINE: What if we could give your store a 33% sales bump?
+
+Narrative "Video" / Animated text + images
+
+I'm sure you know that most people who come to your site leave without buying anything. Actually, research shows that 98 out of every 100 visitors to your site leave without buying. Before, you would have been powerless to do anything about this.
+
+Not so now...
+
+We'd like to introduce you to Retaily, your secret weapon to convert those lost visitors into happy customers.
+
+So, how does Retaily work?
+
+Firstly, we link up with your online store. Then we analyze your visitors and assign a "Buyer Heat Value" to each person. Now, this "Buyer Heat Value" (BHV) is important because it measures how close each visitor is to making a purchase.
+
+Which products or categories did they view? Are the products of the same brand? Do they stay on a page for more than X seconds? Do they try and checkout? Do they stop once they see your shipping rates? Retaily measures all this and more.
+
+Our powerful Retaily Determination Engine (TM) literally crunches through thousands of "buyer intent" signals to generate a precise Buyer Heat Value for each visitor. We now know which stage of the purchase cycle your visitor is at.
+
+Armed with this BHV, we layer in your store's unique data to get an even clearer picture. Data like your average customer buying cycle, your store's inventory counts and average order value. All of this help us to craft a perfect message.
+
+Someone who left when they saw the shipping charge may be shown an ad with a shipping discount. Another who lingered for a long time at a camera page will be shown that exact camera instead of a generic ad, perhaps even with an enticing discount.
+
+All of this is done to draw back visitors you would have lost forever to complete their purchase. The best thing? Retaily does all of this for you... automatically.
+
+Click the "Try It Now" button to experience Retaily for yourself.
+
+(Subsequent slides are 2 "features" to a slide, alternating image+text/text+image/image+text
+
+Slide 2
+=======
+
+integrated with all major shopping cart solutions
+	LEARN MORE (link to new page) SIGN UP
+	
+programmatic buying, dynamic remarketing
+	LEARN MORE (download white paper)
+
+Slide 3
+=======
+banners
+	LEARN MORE (link to new page) SIGN UP 
+reports
+	LEARN MORE (link to new page)
+
+Slide 4
+=======
+demo
+	VIEW DEMO (link to new page)
+
+Footer
+======
+(as it is now, for now)

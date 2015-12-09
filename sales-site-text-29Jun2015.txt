@@ -1,0 +1,48 @@
+Header on top (ALWAYS shows, even on the first load)
+	HOME FEATURES DEMO SIGN UP LOGIN
+
+Slide 1
+=======
+
+HEADLINE: What if we could give your store a 33% sales bump?
+
+Narrative "Video" / Animated text + images
+
+I'm sure you know that out of every 100 people who come to your site, 98 of them will leave without buying anything. Before, there would have been no way of reaching these lost visitors, but now you can do something about it.
+
+Retaily integrates with your existing online store to track and analyze every single one of your visitors. Retaily assigns each visitor to your store a Buyer Intensity Value that measures how close each visitor is to making a purchase. Our Retaily Determination Tool (TM) crunches a wide range of Buyer Intent signals to arrive at each visitors' Buyer Intensity Value.
+
+Which products or categories does a customer view? Are the products that she viewed of the same brand? Does he stay on a camera's page for longer than X seconds? Does she proceed to checkout, but leave your site once she sees your shipping rates?
+
+Retaily factors all of this visitor behavior into its determination of each one's Buyer Intensity Value, so that we know exactly which stage of the purchase cycle each visitor is at. Because we're fully integrated with your store, the Retaily Determination Tool is also able to know your store's average customer buying frequency, keep track of current inventory counts, and analyze average order values. Each customer's Buyer Intensity Value lets us know how likely a customer is to buy, as well as what action is most likely to entice them to come back to make a purchase. Knowing all this, we can show the right message to the right visitor, at the right time.
+
+A visitor who left before selecting a shipping method might be shown an ad with a shipping discount. A visitor who lingered for a long time at a camera page will be shown that exact camera instead of a generic ad, perhaps even with an enticing discount.
+
+All of this is specifically targeted at drawing back visitors who would otherwise have been lost forever to your store, to complete their purchases. Retaily does all of this for you, automatically.
+
+(Subsequent slides are 2 "features" to a slide, alternating image+text/text+image/image+text
+
+Slide 2
+=======
+
+integrated with all major shopping cart solutions
+	LEARN MORE (link to new page) SIGN UP
+	
+programmatic buying, dynamic remarketing
+	LEARN MORE (download white paper)
+
+Slide 3
+=======
+banners
+	LEARN MORE (link to new page) SIGN UP 
+reports
+	LEARN MORE (link to new page)
+
+Slide 4
+=======
+demo
+	VIEW DEMO (link to new page)
+
+Footer
+======
+(as it is now, for now)
